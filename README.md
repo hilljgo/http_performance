@@ -1,7 +1,7 @@
 ***Top Site Performance***
 
 
-Follow example to initialize script:
+Follow example to execute script:
 
 
 root@localhost:~/misc# ./top_site_perf.py Quantcast-Top-Million.txt <br>

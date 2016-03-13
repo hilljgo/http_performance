@@ -61,7 +61,7 @@ def fetch(url):
         final_list.append((download_time, size, url))
         return True
 
-#gets the median or either the speed or the size
+#gets the median of either the speed or the size
 def get_median(url_list, type=None):
     '''
     param url_list: a list of urls sorted by their download speed
